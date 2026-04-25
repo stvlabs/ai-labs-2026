@@ -3,7 +3,7 @@ dist/
 .env
 .env.local
 *.jsonl
-tasks.md
+lab-*/tasks.md
 .DS_Store
 .idea/
 .vscode/
