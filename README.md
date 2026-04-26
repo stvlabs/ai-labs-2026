@@ -6,6 +6,6 @@ Micro-labs exploring the AI-agentic full-stack — 6 labs, ~10 weeks. See [`LOG.
 
 | # | Name | Status | Tag |
 |---|------|--------|-----|
-| 1 | [Task Triage CLI](./lab-01-task-triage) | in progress | — |
+| 1 | [Task Triage CLI](./lab-01-task-triage) | done | `lab-1-done` |
 
 Each lab is self-contained: its own `package.json`, its own README, runnable from the folder.
